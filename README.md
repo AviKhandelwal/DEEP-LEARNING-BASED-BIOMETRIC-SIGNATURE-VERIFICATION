@@ -32,6 +32,6 @@ warp edit distance based kernel,” ICFHR, 2020.
 [4] A. Sharma and S. Sundaram, “Histogram-based matching of gmm encoded features for
 online signature verification,” ICFHR, 2018.
 
-[5] V. Venugopal, A. Sharma, R. Singh, A. Sharma, and S. Sundaram, “A vector quantization based feature descriptor for online signature verification,” IAPR, vol. 14, 2017.
+[5] V. Venugopal, A. Sharma, R. Singh, A. Sharma, and S. Sundaram, “A vector quantization based feature descriptor for online signature verification,” IAPR, vol. 14, 2017.
 
-[6] R. Tolosana, R. Vera-Rodriguez, and J. Fierrez, “Deepsign: Deep on-line signature verification,” 2021.
+[6] R. Tolosana, R. Vera-Rodriguez, and J. Fierrez, “Deepsign: Deep on-line signature verification,” 2021.
