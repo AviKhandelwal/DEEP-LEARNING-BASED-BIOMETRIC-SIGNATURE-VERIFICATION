@@ -19,3 +19,19 @@ to calculate the normalized DTW score and the warping path. Moreover an addition
 with the original DTW score and this fused score is then used for classifying the signature as genuine or forgery.
 Equal error ratio (EER) will be chosen as an evaluation metric and experiments have been performed with an objective in mind to achieve EER
 less than that of the traditional DTW systems.
+
+#### REFERENCES
+[1] A. K. Jain, F. D. Griess, and S. D. Connell, “On-line signature verification,” Pattern
+Recognition, 2002.
+
+[2] M. N. Moustafa, “Enhanced dtw based on-line signature verification,” ICIP, 2009.
+
+[3] S. Auddya, R. K. Singh, and S. Sundaram, “Online signature verification using time
+warp edit distance based kernel,” ICFHR, 2020.
+
+[4] A. Sharma and S. Sundaram, “Histogram-based matching of gmm encoded features for
+online signature verification,” ICFHR, 2018.
+
+[5] V. Venugopal, A. Sharma, R. Singh, A. Sharma, and S. Sundaram, “A vector quantization based feature descriptor for online signature verification,” IAPR, vol. 14, 2017.
+
+[6] R. Tolosana, R. Vera-Rodriguez, and J. Fierrez, “Deepsign: Deep on-line signature verification,” 2021.
